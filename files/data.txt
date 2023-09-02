@@ -1,0 +1,4 @@
+satu;lorem ipsum2;1
+dua;lorem ipsum1;1
+tiga;lorem ipsumh3;1
+empat;lorem ipsum8;1
